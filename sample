@@ -1,0 +1,20 @@
+<table width="240px" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" align="center" bgcolor="#FFF68A" >
+<img src="gals/image/space.gif" width="320" border="0"/></td></tr>
+</table>
+
+<table width="320px" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" align="center" bgcolor="#FFF68A" >
+<font size="-1" color="#4F7CBF">＼会員の方／</font><br />
+<a href="login.html"><img src="gals/image/login/btn_log.png" width="131" border="0"/></a>
+</font>
+</td>
+<td valign="top" align="center" bgcolor="#FFF68A">
+<font size="-1" color="#E9528F">＼未会員の方／</font><br />
+<a href="mailto:gal@grp-r.net"><img src="gals/image/login/log_touroku.png" width="182" border="0"/></a>
+</font>
+</td>
+</tr>
+</table>
